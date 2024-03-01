@@ -1,0 +1,87 @@
+25 Feb
+
+What are my goals today?
+To check I've set up well.
+
+What are my challenges today?
+Finding time to test and reflect on my practice.
+
+
+Command Line
+
+How would you describe the command line in plain English in a couple of sentences? 
+Git allows me to write code which the computer interprets as specific instructions.  This can be used to create digital repositories and files which displays as code through command lines vs a display that mimics Finder. 
+
+Can you think of an analogy for it?
+It's like moving from one room to the next in your home.  Understanding the main hallway and how it branches out into the respective rooms which are used for specific purposes eg. Bathroom, bedroom, kitchen etc.
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+No, still struggling to make dedicated time with the pressures of my household demands.
+
+Name five commands you used and what they do.
+ls - list to list the files and folders in the current folder
+git clone - used to copy an existing repository from a target location and create a matching version on my local drive
+Git commit - allows me to make changes and input this to take a snapshot in time of the repository
+pwd - print working directory to see which directory I'm currently working in
+cd - change directory to move up or down (folders)
+
+
+Did you learn anything unexpected?
+I learned that pushing content required me to download another software in order for the function to work.
+
+Have I reached my goals for today?
+Yes
+
+What have I learned today?
+To have patience and the perseverance to tackle one challenge at a time.
+
+
+
+26 Feb
+
+What are my goals today?
+To join on zoom and intro to my cohort mates.
+
+What are my challenges today?
+To practice what I've learnt so far.
+
+
+Version Control with Git
+
+What's the difference between Git and GitHub?
+Git is a repository located on a local device designed to manage source code history.  GitHub offers a web-based hosting service for Git repositoriesversion control and source code management functionality.  It makes it easier to collaborate when using Git.
+
+Can you think of an analogy to describe them?
+It's like building a house together - by collaborating on a shared project, version control allows contributors to make changes individually which all versions being managed without over-riding each others changes.
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+The more I practice this, it will definitely help with retention.
+
+Did you stick to the timebox suggestions? If not, why not?
+No, I have too many other obligations throughout the day so I need to work on my time management better.
+
+
+
+26 Feb
+
+Install and Explore Git
+
+What is a Git workflow?
+Workflow in this sense is like recommendations for how to use Git to accomplish any set task.  This is usually performed in a consistent manner to get the most productivity.
+
+What did you notice about your learning? 
+Terminology is vitally important as I navigate around GitHub and command lines.  Repetition will be key to my learning retention.
+
+What did you do when you were confused or blocked?
+I'd take a break or go for a glass of water/ coffee.  Otherwise I'd jump online or meet in person with Neihana to brainstorm.  Will build my confidence to ask online as well.
+
+Is there anything you'd do differently if you were to repeat the learning exploration?
+Have a printed copy of the Git commands available until I'm more familiar with them.
+
+
+
+Have I reached my goals for today?
+Yes, great bunch to be working with and all are at varying levels of learning and experience.
+
+What have I learned today?
+Blocking out dedicated time will aid in how well I progress through each sprint.
